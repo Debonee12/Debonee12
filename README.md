@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debonee12
-- 👀 I’m interested in ...<Programming>
-- 🌱 I’m currently learning ...<css><html><java><php>
+- 👀 I’m interested in ...Programming
+- 🌱 I’m currently learning ...css html java php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
